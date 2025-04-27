@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Platzi](https://platzi.com/)
 
-- 🌱 I’m currently learning **sls,k8s,ddd, go :D, and other awesome stuff**
+- 🌱 I’m currently building using **sls,k8s,ddd, go :D, and other awesome stuff**
 
-- 👯 I’m looking to collaborate on **content creators and people currently learning how to code**
+- 👯 As AWS Community Builder I'm looking to collaborate on **content creators and people currently learning how to code**
 
 - 🤝 I’m looking for help with **any Python or Cloud Project**
 
