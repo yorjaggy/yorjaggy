@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yorjaggy&label=Profile%20views&color=0e75b6&style=flat" alt="yorjaggy" /> </p>
 
-- 🔭 I’m currently working on [Platzi](https://platzi.com/)
-
-- 🌱 I’m currently building using **sls,k8s,ddd, go :D, and other awesome stuff**
+- 🌱 I’m currently building using **cloudflare, serverless,k8s, clean architecture, ts :D, and other awesome stuff**
 
 - 👯 As AWS Community Builder I'm looking to collaborate on **content creators and people currently learning how to code**
 
-- 🤝 I’m looking for help with **any Python or Cloud Project**
+- 🤝 I’m open to help/contribute with **any Python or Cloud Project**
 
 - 📝 I regularly write articles on [https://dev.to/yorjaggy](https://dev.to/yorjaggy)
 
-- 💬 Ask me about **Docker, AWS, Jenkins, Python**
+- 💬 Ask me about **Docker, AWS, Jenkins, Python, Cloudflare, DevOps, Serverless, Migrate from on-prem to Cloud**
 
 - 📫 How to reach me **yorjaggy, on all over the internet**
 
